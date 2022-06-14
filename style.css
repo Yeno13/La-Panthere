@@ -775,7 +775,7 @@ h4 {
 }
 
 .tc-white {
-    color: #ffffff!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
@@ -824,7 +824,7 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentation.webp");
 }
-.link-img{
+.link-img {
     display: flex !important;
     justify-content: center !important;
 }
@@ -832,7 +832,6 @@ blockquote {
     color: #191919;
     font-weight: 600;
 }
-
 
 @media (max-width: 1024px) {
     .bloc {
@@ -846,7 +845,6 @@ blockquote {
         padding-left: 0;
         padding-right: 0;
     }
-  
 }
 
 @media (max-width: 992px) and (min-width: 768px) {
@@ -882,13 +880,11 @@ blockquote {
         overflow-x: hidden;
         position: relative;
     }
-
     .bloc-group,
     .bloc-group .bloc {
         display: block;
         width: 100%;
     }
-
 }
 
 @media (max-width: 767px) {
@@ -1035,7 +1031,6 @@ blockquote {
         padding-left: 0;
         padding-right: 0;
     }
-    
 }
 
 @media (max-width: 767px) {
